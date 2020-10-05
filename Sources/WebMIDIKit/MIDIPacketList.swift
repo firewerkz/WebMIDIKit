@@ -6,7 +6,10 @@
 //
 //
 
+//import Foundation
 import AVFoundation
+//import CoreAudioTypes
+//import AudioToolbox
 
 extension MIDIPacketList {
     /// this needs to be mutating since we are potentionally changint the timestamp

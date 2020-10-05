@@ -1,5 +1,5 @@
 import XCTest
-@testable import WebMIDIKit
+//@testable import WebMIDIKit
 
 class WebMIDIKitTests: XCTestCase {
     func testExample() {
